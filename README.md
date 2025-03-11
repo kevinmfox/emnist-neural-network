@@ -2,7 +2,7 @@
 
 ## Overview
 
-I'm still working through Coursera's 'Deep Learning Specialization' (https://www.coursera.org/specializations/deep-learning), and was just wrapping up the 'Convolutional Neural Networks' course.
+I'm working through Coursera's 'Deep Learning Specialization' (https://www.coursera.org/specializations/deep-learning), and was just wrapping up the 'Convolutional Neural Networks' course.
 
 As a note, some previous work as I walked through the course here: (https://github.com/kevinmfox/mnist-neural-network)
 
