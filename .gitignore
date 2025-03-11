@@ -4,6 +4,6 @@ env/**
 *.csv
 pyvenv.cfg
 .pylintrc
-datasets/*.txt
-!datasets/emnist-datasets.zip
+datasets/*
+!datasets/*.zip
 !model-001.pkl

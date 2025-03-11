@@ -1,4 +1,4 @@
-# Neural Network with MNIST Database
+# Neural Network with EMNIST Datasets
 
 ## Overview
 
@@ -33,9 +33,13 @@ I've included a ```model-001.pkl``` file which was trained against the _balanced
 Download/clone the repo, and run:
 ```pip install -r requirements.txt```
 
-You'll want to extract ```datasets\emnist-datasets.zip```. It has all the emnist datasets.
+You'll most likely want to grab the EMNIST datasets from this location: (https://www.kaggle.com/datasets/crawford/emnist)
 
-More information about those datasets, formats, distributions, etc. can be found here: (https://www.kaggle.com/datasets/crawford/emnist)
+I've included some smaller ZIP files of a few datasets that are usefule to play with.
+
+Datasets should be kept in the ```datasets``` folder (the application assumes as much).
+
+More information about the EMNIST datasets, formats, distributions, etc. can be found here: (https://www.kaggle.com/datasets/crawford/emnist)
 
 If you want to create smaller subsets to train/model against, there's a command for that (see below).
 
